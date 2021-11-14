@@ -1,0 +1,4 @@
+2021.11.14:
+* new: `changelog.txt` file
+* new: `README_EN.txt` file
+* new: `gnuwin32` binaries moved from `contools` project
